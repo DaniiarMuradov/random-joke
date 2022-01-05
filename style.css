@@ -1,0 +1,36 @@
+.main{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    vertical-align: center;
+    justify-content: center;
+}
+.container{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img{
+    width: 200px;
+}
+button{
+    width: 300px;
+    padding: 10px 20px;
+    background-color: blue;
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+h1{
+    color: blue;
+}
+p{
+    height: 200px;
+    padding: 0px 30px;
+}
